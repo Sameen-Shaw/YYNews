@@ -1,3 +1,3 @@
 # YYNews
-about me
-  - Exercise code
+### about me
+   - Exercise code
